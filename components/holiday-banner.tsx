@@ -7,12 +7,12 @@ export function HolidayBanner() {
       <div className="banner-badge">
         <span style={{display: 'flex', alignItems: 'center', gap: 8}}>
           <Sparkles className="h-5 w-5" />
-          <span>Denim & Diamond</span>
+          <span>RandomPickerNames</span>
         </span>
       </div>
       <div className="banner-title">
-        <h2>Christmas Denim & Diamond Celebration</h2>
-        <p>Add your prizes and names, then spin to reveal winners.</p>
+        <h2>Christmas Celebration</h2>
+        <p> Add your prizes and names, then spin to reveal winners.</p>
       </div>
     </div>
   )
